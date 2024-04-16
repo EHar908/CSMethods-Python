@@ -1,0 +1,10 @@
+# This is an incorrect implementation of a fractal file
+# The program should still remove unnecessary spaces, capitalizations, etc, but it'll
+# end up looking over misspelled keys and it should raise an error for pixels,
+# centerx, centery, and axislength because they are incorrect types.
+Type: spider 3
+piXEls: 1024.23
+centerx: 9
+cEntery: 7
+axislEngth: 2
+iteration: 2.5

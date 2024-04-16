@@ -1,0 +1,9 @@
+# This is a correct implementation of a fractal file
+# The capitalizations should be lowered in FractalParser and the empty spaces removed
+# Finally, the strings should be converted to their appropriate values
+Type: spider
+piXEls: 1024
+centerx: 0.018
+cEntery: 0.700
+axislEngth: 0.25
+iterations: 256
